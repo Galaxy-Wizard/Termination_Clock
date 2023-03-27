@@ -54,7 +54,7 @@ CTimerDlg::CTimerDlg(CWnd* pParent /*=nullptr*/)
 void CTimerDlg::DoDataExchange(CDataExchange* pDX)
 {
 	CDialogEx::DoDataExchange(pDX);
-	DDX_Control(pDX, IDC_EDIT2, TimeLeft);
+	DDX_Control(pDX, IDC_EDIT1, TimeLeft);
 	DDX_Control(pDX, IDC_DATETIMEPICKER1, TerminationDateTime);
 }
 
