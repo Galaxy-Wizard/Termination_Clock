@@ -24,7 +24,7 @@
     <Keyword>MFCProj</Keyword>
     <RootNamespace>Timer</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
-    <ProjectName>Termination_Clock</ProjectName>
+    <ProjectName>Termination_clock</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
